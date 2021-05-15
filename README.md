@@ -2,9 +2,6 @@
 
 Created a basic object detection program which detects an object coming and going out of the frame
 
-## Usage
-
-For windows user you will find exe file in windows folder to run the program.
 
 ## Requirements
 * For linux and mac users
